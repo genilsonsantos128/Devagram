@@ -1,0 +1,6 @@
+@DevagramcSharp_HostAddress = http://localhost:5234
+
+GET {{DevagramcSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
